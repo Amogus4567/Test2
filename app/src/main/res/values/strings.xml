@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Test2</string>
     <string name="annoying_dog">Test2</string>
-    <string name="title">I hate you</string>
+    <string name="howdy_idiot">Howdy, idiot!</string>
+    <string name="press">Press</string>
+    <string name="wtf">\?</string>
 </resources>
